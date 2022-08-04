@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance on Dwi Putra Pamungkas</title>
+    <link>https://underscore48.github.io/dwi_portfolio/tags/finance/</link>
+    <description>Recent content in Finance on Dwi Putra Pamungkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://underscore48.github.io/dwi_portfolio/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credit Card Transaction Validation</title>
+      <link>https://underscore48.github.io/dwi_portfolio/post/project-1/</link>
+      <pubDate>Mon, 13 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://underscore48.github.io/dwi_portfolio/post/project-1/</guid>
+      <description>Create a tool that has a function to evaluate and classify every credit card transaction submitted whether it is valid or fraudulent. A tool made using Machine Learning with a 100% accuracy rate to avoid fraud and laundering that can harm Customers and Bank. Using data sets published by UCI Machine Learning Repository (Credit Approval Data Set). The Machine Learning model used is Logistic Regression with parameter optimization, maximum iterations and tolerance values, using Grid Search Cross Validation to produce model with the best performance.</description>
+    </item>
+    
+  </channel>
+</rss>

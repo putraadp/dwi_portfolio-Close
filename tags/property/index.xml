@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Property on Dwi Putra Pamungkas</title>
+    <link>https://underscore48.github.io/dwi_portfolio/tags/property/</link>
+    <description>Recent content in Property on Dwi Putra Pamungkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://underscore48.github.io/dwi_portfolio/tags/property/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Property Rental Price Prediction</title>
+      <link>https://underscore48.github.io/dwi_portfolio/post/project-2/</link>
+      <pubDate>Sun, 19 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://underscore48.github.io/dwi_portfolio/post/project-2/</guid>
+      <description>Create a tool that functions to provide rental price predictions for various properties based on the features possessed by the property. Machine learning regression model is used to predict property rental rates. Using data sets of San Francisco,CA property rental price. Code and Resources Used Python Version: 3.10.3
+Packages: pandas, numpy, sklearn, math Dataset source: Datacamp case study
+Processing Data After collect Dataset, I need to check and clean up the dataset to make sure no missing and anomaly values on Dataset before creating a Machine Learning model.</description>
+    </item>
+    
+  </channel>
+</rss>
