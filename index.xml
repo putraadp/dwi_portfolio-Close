@@ -6,7 +6,7 @@
     <description>Recent content in Data Science Portfolio on Dwi Putra Pamungkas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://underscore48.github.io/dwi_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://underscore48.github.io/dwi_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://underscore48.github.io/dwi_portfolio/contact/</link>
@@ -15,6 +15,15 @@
       <guid>https://underscore48.github.io/dwi_portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
 Platform URL Email dwiputrapamungkas48@gmail.com LinkedIn https://www.linkedin.com/in/dwi-putra-pamungkas-01a505135/ GitHub https://github.com/Underscore48 Instagram https://www.instagram.com/putraa_dp/ </description>
+    </item>
+    
+    <item>
+      <title>Risk and Return on Investment in The 10 Biggest Tech Companies in The World &amp; Predictions for The Future</title>
+      <link>https://underscore48.github.io/dwi_portfolio/post/project-3/</link>
+      <pubDate>Mon, 05 Sep 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://underscore48.github.io/dwi_portfolio/post/project-3/</guid>
+      <description>Overview Evaluate the risk and return of 10 stocks of The World&amp;rsquo;s Biggest Technology Companies 5 years ago to date based on annual Sharpe Ratios. Create a tool that functions to provide stock price predictions from companies that have the highest annual sharpe ratio evaluation results in previous evaluations. Machine learning with LSTM (Long Short Term Memory) model is used to predict stock prices. All datasets are provided from Yahoo! Finance&amp;rsquo;s API.</description>
     </item>
     
     <item>
@@ -43,7 +52,7 @@ Processing Data After collect Dataset, I need to check and clean up the dataset 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://underscore48.github.io/dwi_portfolio/about/</guid>
-      <description>&#34;I am a Bachelor of Science (B.Sc) with a major in Physics from Brawijaya University who has an interest in a career in Data Science. With my educational background, especially in Computational of Material Science and Engineering, I have excellent analytical skills, critical thinking, complex problem solving, and understanding of data very well. During my studies, I was also active in participating in various coding boot camps, and I took the Data Science Professional with Python training and certification organized by Datacamp.</description>
+      <description>&#34;I am a Bachelor of Science (B.Sc) with a major in Physics from Brawijaya University who has an interest in a career in Data Science. With my educational background, especially in Computational Material Science and Engineering, I have excellent analytical skills, critical thinking, complex problem solving, and understanding of data very well. During my studies, I was also active in participating in various coding boot camps, and I took the Data Science Professional with Python training and certification organized by Datacamp.</description>
     </item>
     
   </channel>
